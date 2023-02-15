@@ -1,11 +1,11 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Gray - Amazon Storefront"
+email: mggicay@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/storefront"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Grace
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -24,28 +24,22 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  gray:
+    name: Grace Icay
+    display_name: Gray
+    avatar: 'assets/images/gray.png'
+    email: mggicay@gmail.com
+    web: https://grayinfilm.com
+    instagram: https://www.instagram.com/gray__in__film
+    description: "This page is created by Gray for posting Amazon Affiliate Links"
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/gray__in__film/
+  linkedin: https://www.linkedin.com/in/mary-grygjeanne-grace-icay-109184140/
+  github: http://github.com/digracesion
+  medium: https://medium.com/@todorokis
+  behance: https://www.behance.net/mggicay
 
 # Plugins
 plugins: 

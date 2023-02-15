@@ -2,14 +2,10 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+This website is a home to Gray's Amazon storefront.
+Please be aware that products linked here are available on Amazon US and purchasing through these links may generate a small revenue for the owner.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+This website was created using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/), using the [Affiliates Jekyll Template](https://jamstackthemes.dev/demo/theme/affiliates-jekyll-theme/)
 
